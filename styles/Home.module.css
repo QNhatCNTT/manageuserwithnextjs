@@ -1,0 +1,14 @@
+.manage_user{
+  box-sizing: border-box;
+}
+
+.table_data{
+  max-width: 1279px;
+  width: 1259px;
+}
+
+.avt__user{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
